@@ -20,6 +20,6 @@ TradingBot is a simple chatbot implemented in Python. It utilizes TF-IDF and cos
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/TradingBot.git
+   
 # ChatBot
 this is for chating bot about stock market knowledge base 
