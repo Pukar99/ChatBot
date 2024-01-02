@@ -10,10 +10,10 @@ TradingBot is a simple chatbot implemented in Python, specifically designed to p
 - **User Interaction:** Designed to engage users in conversations about the stock market, allowing them to ask questions and receive informative responses.
 
 ## Outputs (Interface)
-<img src="output/Screenshot (257).png" alt="Image Description" width="250px">
-<img src="output/Screenshot (258).png" alt="Image Description" width="250px">
-<img src="output/Screenshot (259).png" alt="Image Description" width="250px">
-<img src="output/Screenshot (260).png" alt="Image Description" width="250px">
+<img src="output/Screenshot (257).png" alt="Image Description" width="">
+<img src="output/Screenshot (258).png" alt="Image Description" width="">
+<img src="output/Screenshot (259).png" alt="Image Description" width="">
+<img src="output/Screenshot (260).png" alt="Image Description" width="">
 
 ## Dependencies
 
